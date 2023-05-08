@@ -48,5 +48,6 @@ Proje Kullanıcı, Yazar ve Admin Panelli bir Blog sitesidir.
 ![Admin](https://github.com/senaboyuktas/CoreDemo/blob/master/Proje/18.jpg)
 ![Admin](https://github.com/senaboyuktas/CoreDemo/blob/master/Proje/19.jpg)
 ![Admin](https://github.com/senaboyuktas/CoreDemo/blob/master/Proje/20.jpg)
+![Admin](https://github.com/senaboyuktas/CoreDemo/blob/master/Proje/23.jpg)
 ![Admin](https://github.com/senaboyuktas/CoreDemo/blob/master/Proje/21.jpg)
 ![404](https://github.com/senaboyuktas/CoreDemo/blob/master/Proje/22.jpg)
