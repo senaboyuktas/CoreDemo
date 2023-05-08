@@ -28,9 +28,9 @@ Proje Kullanıcı, Yazar ve Admin Panelli bir Blog sitesidir.
 ## Proje Görselleri
 ![Blog](https://github.com/senaboyuktas/CoreDemo/blob/master/Proje/1.jpg)
 ![Blog](https://github.com/senaboyuktas/CoreDemo/blob/master/Proje/2.jpg)
+![Blog](https://github.com/senaboyuktas/CoreDemo/blob/master/Proje/3.2.jpg)
 ![Blog](https://github.com/senaboyuktas/CoreDemo/blob/master/Proje/3.jpg)
 ![Blog](https://github.com/senaboyuktas/CoreDemo/blob/master/Proje/3.1.jpg)
-![Blog](https://github.com/senaboyuktas/CoreDemo/blob/master/Proje/3.2.jpg)
 ![Blog](https://github.com/senaboyuktas/CoreDemo/blob/master/Proje/4.jpg)
 ![Blog](https://github.com/senaboyuktas/CoreDemo/blob/master/Proje/5.jpg)
 ![Blog](https://github.com/senaboyuktas/CoreDemo/blob/master/Proje/6.jpg)
