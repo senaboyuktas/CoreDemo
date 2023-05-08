@@ -26,7 +26,7 @@ Proje Kullanıcı, Yazar ve Admin Panelli bir Blog sitesidir.
 * Json web token üzerinde duruldu.
 
 ## Proje Görselleri
-![Blog]
+![Blog](https://github.com/senaboyuktas/CoreDemo/blob/master/Proje/1.jpg)
 ![Blog]
 ![Blog]
 ![Blog]
