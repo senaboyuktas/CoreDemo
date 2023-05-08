@@ -31,7 +31,7 @@ namespace CoreDemo
         {
             services.AddDbContext<Context>();
 
-            services.AddIdentity<AppUser, AppRole>(x => 
+            services.AddIdentity<AppUser, AppRole>(x =>
             {
                 x.Password.RequireUppercase = false;
                 x.Password.RequireNonAlphanumeric = false;
@@ -54,7 +54,7 @@ namespace CoreDemo
                 {
                     x.LoginPath = "/Login/Index";
                 });
-            
+
             services.ConfigureApplicationCookie(options =>
             {
                 options.Cookie.HttpOnly = true;
@@ -96,12 +96,12 @@ namespace CoreDemo
             {
                 endpoints.MapControllerRoute(
             name: "areas",
-            pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}"
+            pattern: "{area:exists}/{controller=Widget}/{action=Index}/{id?}"
           );
 
                 endpoints.MapControllerRoute(
                     name: "default",
-                    pattern: "{controller=Home}/{action=Index}/{id?}");
+                    pattern: "{controller=Blog}/{action=Index}/{id?}");
             });
         }
     }

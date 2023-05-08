@@ -147,7 +147,7 @@
 
                 </nav>
             </div>
-            
+
             <div class="wrapper wrapper-content animated fadeInRight">
                 @RenderBody()
             </div>
@@ -193,7 +193,7 @@
             });
         });
     </script>
-    @*@await RenderSectionAsync("scripts")*@
+    @RenderSectionAsync("scripts",false)
 </body>
 
 </html>
